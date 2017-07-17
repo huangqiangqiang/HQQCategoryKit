@@ -1,15 +1,14 @@
 //
-//  UIImage+HQQCommonTools.h
-//  HQQCommonToolsExemple
+//  UIImage+HQQCategoryKit.h
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
 #import <UIKit/UIKit.h>
 
-@interface UIImage (HQQCommonTools)
-
+@interface UIImage (HQQCategoryKit)
 
 /**
  *  图片拉伸

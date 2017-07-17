@@ -1,14 +1,14 @@
 //
-//  UINavigationController+HQQCommonTools.m
-//  HQQCommonToolsExemple
+//  UINavigationController+HQQCategoryKit.m
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import "UINavigationController+HQQCommonTools.h"
+#import "UINavigationController+HQQCategoryKit.h"
 
-@implementation UINavigationController (HQQCommonTools)
+@implementation UINavigationController (HQQCategoryKit)
 
 - (void)hqq_pushViewControllerDelayPop:(UIViewController *)viewController animated:(BOOL)animated
 {

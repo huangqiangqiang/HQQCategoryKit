@@ -1,14 +1,14 @@
 //
-//  NSTimer+HQQCommonTools.m
-//  HQQCommonToolsExemple
+//  NSTimer+HQQCategoryKit.m
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import "NSTimer+HQQCommonTools.h"
+#import "NSTimer+HQQCategoryKit.h"
 
-@implementation NSTimer (HQQCommonTools)
+@implementation NSTimer (HQQCategoryKit)
 
 + (NSTimer *)hqq_scheduledTimerWithTimeInterval:(NSTimeInterval)interval block:(void (^)())block repeats:(BOOL)repeats
 {

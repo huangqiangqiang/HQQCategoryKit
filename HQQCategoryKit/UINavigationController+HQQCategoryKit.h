@@ -1,15 +1,14 @@
 //
-//  UINavigationController+HQQCommonTools.h
-//  HQQCommonToolsExemple
+//  UINavigationController+HQQCategoryKit.h
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
 #import <UIKit/UIKit.h>
 
-@interface UINavigationController (HQQCommonTools)
-
+@interface UINavigationController (HQQCategoryKit)
 
 /**
  *  push出一个控制器，并把自己从navigation栈中移除

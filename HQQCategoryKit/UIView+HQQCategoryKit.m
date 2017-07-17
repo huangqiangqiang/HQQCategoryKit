@@ -1,16 +1,15 @@
 //
-//  UIView+HQQCommonTools.m
-//  HQQCommonToolsExemple
+//  UIView+HQQCategoryKit.m
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import "UIView+HQQCommonTools.h"
+#import "UIView+HQQCategoryKit.h"
 #import <objc/runtime.h>
 
-@implementation UIView (HQQCommonTools)
-
+@implementation UIView (HQQCategoryKit)
 
 - (void)setHqq_x:(CGFloat)hqq_x
 {

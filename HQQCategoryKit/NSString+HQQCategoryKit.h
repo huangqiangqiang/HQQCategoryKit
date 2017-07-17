@@ -1,14 +1,14 @@
 //
-//  NSString+Extension.h
-//  RenShineDoctor
+//  NSString+HQQCategoryKit.h
+//  Pods
 //
-//  Created by 黄强强 on 15/11/6.
-//  Copyright © 2015年 杭州岐黄信息技术有限公司. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface NSString (HQQCommonTools)
+@interface NSString (HQQCategoryKit)
 
 /**
  *  根据文字和字体大小计算文字尺寸

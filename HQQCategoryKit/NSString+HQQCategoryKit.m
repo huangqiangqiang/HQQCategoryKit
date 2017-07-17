@@ -1,15 +1,15 @@
 //
-//  NSString+Extension.m
-//  RenShineDoctor
+//  NSString+HQQCategoryKit.m
+//  Pods
 //
-//  Created by 黄强强 on 15/11/6.
-//  Copyright © 2015年 杭州岐黄信息技术有限公司. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import "NSString+HQQCommonTools.h"
+#import "NSString+HQQCategoryKit.h"
 #import <CommonCrypto/CommonDigest.h>
 
-@implementation NSString (HQQCommonTools)
+@implementation NSString (HQQCategoryKit)
 
 - (CGRect)hqq_rectWithFont:(UIFont *)font
 {

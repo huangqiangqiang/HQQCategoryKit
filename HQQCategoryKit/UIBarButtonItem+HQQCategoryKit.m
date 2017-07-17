@@ -1,15 +1,15 @@
 //
-//  UIBarButtonItem+HQQCommonTools.m
-//  HQQCommonToolsExemple
+//  UIBarButtonItem+HQQCategoryKit.m
+//  Pods
 //
-//  Created by 黄强强 on 16/7/11.
-//  Copyright © 2016年 黄强强. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
-#import "UIBarButtonItem+HQQCommonTools.h"
-#import "UIView+HQQCommonTools.h"
+#import "UIBarButtonItem+HQQCategoryKit.h"
+#import "UIView+HQQCategoryKit.h"
 
-@implementation UIBarButtonItem (HQQCommonTools)
+@implementation UIBarButtonItem (HQQCategoryKit)
 
 /**
  *  创建一个item

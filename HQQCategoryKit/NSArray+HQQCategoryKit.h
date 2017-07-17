@@ -1,14 +1,14 @@
 //
-//  NSArray+Extension.h
-//  RenShineDoctor
+//  NSArray+HQQCategoryKit.h
+//  Pods
 //
-//  Created by 黄强强 on 15/12/9.
-//  Copyright © 2015年 杭州岐黄信息技术有限公司. All rights reserved.
+//  Created by 黄强强 on 2017/7/17.
+//
 //
 
 #import <Foundation/Foundation.h>
 
-@interface NSArray (HQQCommonTools)
+@interface NSArray (HQQCategoryKit)
 
 /**
  *  移除array里面的obj对象
