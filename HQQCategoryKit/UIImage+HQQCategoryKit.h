@@ -33,7 +33,7 @@
  *
  *  @return 压缩后的图片
  */
-+ (UIImage *)hqq_reSizeImage:(UIImage *)image toSize:(CGSize)reSize;
++ (UIImage *)hqq_resizeImage:(UIImage *)image toSize:(CGSize)reSize;
 
 /**
  *  自定义图片压缩后的宽度，等比压缩

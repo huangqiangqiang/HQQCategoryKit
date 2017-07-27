@@ -32,7 +32,7 @@
     return image;
 }
 
-+ (UIImage *)hqq_reSizeImage:(UIImage *)image toSize:(CGSize)reSize
++ (UIImage *)hqq_resizeImage:(UIImage *)image toSize:(CGSize)reSize
 {
     UIGraphicsBeginImageContext(CGSizeMake(reSize.width, reSize.height));
     [image drawInRect:CGRectMake(0, 0, reSize.width, reSize.height)];
