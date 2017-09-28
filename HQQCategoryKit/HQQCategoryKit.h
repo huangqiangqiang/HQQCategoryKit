@@ -17,5 +17,6 @@
 #import "UIImage+HQQCategoryKit.h"
 #import "UINavigationController+HQQCategoryKit.h"
 #import "UIView+HQQCategoryKit.h"
+#import "NSObject+HQQCategoryKit.h"
 
 #endif /* HQQCategoryKit_h */
